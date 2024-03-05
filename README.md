@@ -1,6 +1,6 @@
 # Moodle docker-compose lamp
 admin/Admin0101*
-
+hola
 sudo chmod -R uga+wr logs/apache2/
 
 sudo docker-compose up -d
