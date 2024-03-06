@@ -12,4 +12,4 @@ git clone https://github.com/Blxnki/proyecto_moodle_matias.git
 3.Levantas el docker-compose con el siguiente comando:ç
 docker-compose up -d
 
-4.Pones en tu navegador "localhost" y ya te deveria de aparecer.
+4.Pones en tu navegador "localhost" y ya te deberia de aparecer.
